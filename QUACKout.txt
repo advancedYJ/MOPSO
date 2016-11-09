@@ -1,0 +1,3 @@
+PDB file can not be opened /home/ws/GL/mybin/temp1.pdb
+PDB file can not be opened /home/ws/GL/mybin/temp1.pdb
+PDB file can not be opened /home/ws/GL/mybin/temp1.pdb
