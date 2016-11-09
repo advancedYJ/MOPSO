@@ -23,7 +23,7 @@ const int tidSize = 10;
 // MOPSO Settings
 const int nPop = 5;                  // Population Size
 const int nRep = 50;                // Repository Size
-const int  MaxIt = 500;          // Maximum Number of Iterations
+const int  MaxIt = 10000;          // Maximum Number of Iterations
 
 const double phi1 = 2.05;
 const double phi2 = 2.05;
